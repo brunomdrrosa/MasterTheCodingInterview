@@ -24,4 +24,5 @@ function findNemo(array) {
   console.log("Call to find Nemo took " + (t1 - t0) + "ms");
 }
 
-findNemo(large);
+// O(n) --> Linear Time
+findNemo(large); 
